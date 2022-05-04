@@ -1,0 +1,25 @@
+.main-content {
+  padding: 57px 27px;
+  color: #fff;
+}
+
+.mian-head {
+  margin: 0;
+  font-size: 40px;
+  letter-spacing: -0.05em;
+
+}
+
+.main-list {
+  margin-top: 48px;
+}
+
+.main-list > li {
+    line-height: 19px;
+    padding-block: 11px;
+}
+
+.main-list > li::marker {
+  font-size: 1.5em;
+  color: #61DAFB;
+}
